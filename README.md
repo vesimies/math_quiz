@@ -20,8 +20,6 @@
 1. Make sure you have **Python 3** installed.
 2. Download or clone this repository.
 3. Run the script in your terminal or Jupyter Notebook:
-```bash
-python math_game.py
 
 
 Example on how it could look like:
